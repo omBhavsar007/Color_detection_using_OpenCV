@@ -1,5 +1,5 @@
 # Color_detection_using_OpenCV
-I this Project of color detection is created using openCV python
+In this Project of color detection is created using openCV python
 Introduction:
 In real life colour detection gets used in many fields like PHARMACEUTICAL / FOOD PROCESSING, 
 Detecting register marks on a packaging sheet, in industry products have specific colour code upon that 
